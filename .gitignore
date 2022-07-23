@@ -1,2 +1,5 @@
 # JetBrains IDE fluff
 .idea/
+
+# Other
+node_modules/
